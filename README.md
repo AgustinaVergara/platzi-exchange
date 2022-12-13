@@ -1,4 +1,5 @@
 # platzi-exchange
+Este proyecto lo fui desarrollando al realizar el curso "Curso Básico de Vue.js 2" en la plataforma de Platzi. En el mismo aprendí los conceptos basicos de Vue.js 2 y como crear mi propio proyecto desde cero.
 
 ## Project setup
 ```
